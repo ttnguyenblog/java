@@ -1,5 +1,10 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"%>
+<!DOCTYPE html>
 <html>
+<head>
+    <title>Hello JSP</title>
+</head>
 <body>
-<h2>Hello World!</h2>
+    <h1>Hello from Maven Web App!</h1>
 </body>
 </html>
